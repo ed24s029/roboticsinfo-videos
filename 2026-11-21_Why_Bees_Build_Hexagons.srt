@@ -1,0 +1,131 @@
+1
+00:00:00,150 --> 00:00:02,428
+Why do bees build every room as a hexagon?
+
+2
+00:00:02,878 --> 00:00:04,815
+Not circles. Not squares. Six sides!
+
+3
+00:00:06,350 --> 00:00:07,734
+Meet Bea, a very busy bee.
+
+4
+00:00:08,184 --> 00:00:09,671
+Her wax is super expensive.
+
+5
+00:00:10,121 --> 00:00:13,294
+She eats about eight spoons of honey to make one spoon of wax!
+
+6
+00:00:13,744 --> 00:00:15,754
+So every wall counts. Which shape wins?
+
+7
+00:00:17,017 --> 00:00:18,658
+Watch this. Try circles first.
+
+8
+00:00:19,108 --> 00:00:21,455
+Circles leave gaps, like marbles in a box.
+
+9
+00:00:21,905 --> 00:00:23,903
+Wasted space! And more wax to fill it.
+
+10
+00:00:24,353 --> 00:00:25,351
+Bea is not impressed.
+
+11
+00:00:26,617 --> 00:00:28,656
+Squares and triangles fit with no gaps,
+
+12
+00:00:29,106 --> 00:00:30,228
+just like floor tiles.
+
+13
+00:00:30,678 --> 00:00:32,493
+But they need more wall for the same room.
+
+14
+00:00:32,943 --> 00:00:34,101
+So close! But wait...
+
+15
+00:00:35,350 --> 00:00:36,478
+Now hexagons. Ready?
+
+16
+00:00:36,928 --> 00:00:38,507
+No gaps, and the least wall of all!
+
+17
+00:00:38,957 --> 00:00:40,561
+Each wall is shared by two rooms.
+
+18
+00:00:41,011 --> 00:00:43,879
+A Roman writer guessed this over two thousand years ago.
+
+19
+00:00:44,329 --> 00:00:48,417
+A mathematician finally proved it in 1999. Wow!
+
+20
+00:00:50,283 --> 00:00:51,719
+Engineers borrowed this trick.
+
+21
+00:00:52,169 --> 00:00:54,033
+They put a layer of thin hexagon cells
+
+22
+00:00:54,483 --> 00:00:56,477
+between two thin sheets, like a sandwich.
+
+23
+00:00:56,927 --> 00:00:58,154
+It's called a honeycomb panel.
+
+24
+00:00:58,604 --> 00:01:00,578
+It's mostly air, but super hard to bend!
+
+25
+00:01:01,028 --> 00:01:03,068
+So planes stay strong without getting heavy.
+
+26
+00:01:03,518 --> 00:01:05,791
+It's in plane flaps, doors and cabin walls,
+
+27
+00:01:06,241 --> 00:01:08,163
+and even in rockets and space antennas.
+
+28
+00:01:09,917 --> 00:01:11,229
+Bees: less wax, more room.
+
+29
+00:01:11,679 --> 00:01:13,214
+Planes: less weight, more strength.
+
+30
+00:01:14,450 --> 00:01:15,986
+Would you build with hexagons too?
+
+31
+00:01:16,136 --> 00:01:18,155
+If you love nature-inspired videos like this,
+
+32
+00:01:18,305 --> 00:01:20,319
+like, share and subscribe to RoboticsInfo,
+
+33
+00:01:20,469 --> 00:01:21,667
+and follow us on Instagram.
